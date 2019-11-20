@@ -5,7 +5,10 @@
 // 	'formularz' => 'Formularz',
 // 	'klasa' => 'Klasy'
 // );
-$ret = array(); //tablica asocjacyjna, która będzie zawierała wyniki zapytań
+
+// github.com/lo1cgsan/phpapp
+// tablica asocjcyjna, która będzie zawierała wyniki zapytań
+$ret = array();
 
 function get_menu($id) {
 	global $db, $ret;
@@ -14,21 +17,22 @@ function get_menu($id) {
  	foreach ($ret as $k => $t) {
 		echo '
 <li class="nav-item">
-	<a class="nav-link" href="?id='.$t['plik'].'">'.$t['tytul'].'</a>
+    <a class="nav-link" href="?id='.$t['plik'].'">'.$t['tytul'].'</a>
 </li>
-	';
+		';
 	}
 }
 
 function get_page_title($id) {
 	global $ret;
 	foreach ($ret as $k => $t) {
+		//echo $t['id']." ";
 		if ($t['plik'] == $id) {
 			echo $t['tytul'];
 			return;
 		}
 	}
-	//tytuł domyślny
+	// tytuł domyślny
 	echo 'Aplikacja PHP';
 }
 

@@ -1,5 +1,4 @@
 <?php
-
 setlocale(LC_ALL, 'pl_PL.UTF-8');
 date_default_timezone_set('Europe/Warsaw');
 error_reporting(E_ALL);
@@ -10,7 +9,7 @@ ini_set('error_log', 'errorlog.txt');
 define('DINC', 'inc/');
 define('DBASE', 'db/');
 $dbfile = DBASE.'baza.db';
-$db = null;
+$db=null;
 $kom = array();
 require_once(DINC.'functions.php');
 require_once(DINC.'db.php');
@@ -25,6 +24,10 @@ if (isset($_GET['id']))
 	$id=$_GET['id'];
 else
 	$id='witam';
+
 include_once(DINC.'template.php');
 
+// echo 'zaq1@WSX';
+// echo sha1('zaq1@WSX');
+// c380f833034d60bf035a134094eb538d600dc6f9
 ?>

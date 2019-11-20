@@ -1,13 +1,13 @@
 <?php
 
 class User {
-	
+
 	var $dane = array();
 	var $keys = array('id', 'login', 'haslo', 'email', 'data');
 
 	function is_user($sid, $login=NULL, $haslo=NULL) {
 		if (!empty($login)) {
-			$qstr='SELECT * FROM users WHERE login = \''.$login.'\' AND haslo = \''.sha1($haslo).'\' LIMIT 1';
+				$qstr='SELECT * FROM users WHERE login = \''.$login.'\' AND haslo = \''.sha1($haslo).'\' LIMIT 1';
 		} else return false;
 
 		$ret=array();
@@ -20,6 +20,7 @@ class User {
 		}
 		return false;
 	}
+
 	function __set($k, $v) {
 		$this->dane[$k] = $v;
 	}
@@ -33,21 +34,17 @@ class User {
 
 	function is_login($login) {
 		$qstr='SELECT id FROM users WHERE login=\''.$login.'\' LIMIT 1';
-		$ret = array();
-		db_query($qstr, $ret);
-    	if ($ret) return true;
-    	return false;
+    if (db_query($qstr)) return true;
+    return false;
 	}
 
 	function is_email($email) {
 		$qstr='SELECT id FROM users WHERE email=\''.$email.'\' LIMIT 1';
-		$ret = array();
-		db_query($qstr, $ret);
-    	if ($ret) return true;
-    	return false;
+    if (db_query($qstr)) return true;
+    return false;
 	}
 
-	function savtb() {//tab. asocjacyjna z kluczami: id#nick#haslo#email#datad
+  function savtb() {//tab. asocjacyjna z kluczami: id#login#haslo#email#datad
 		if (strlen($this->haslo)<40) $this->haslo=sha1($this->haslo);
 		$this->llog=time();
 		if (!$this->id) {

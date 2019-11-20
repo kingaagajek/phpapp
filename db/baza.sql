@@ -25,7 +25,5 @@ CREATE TABLE users (
 	data DATE
 );
 
-
-
 -- INSERT INTO menu(tytul, plik, id) VALUES('Klasa', 'klasa', NULL);
 -- sqlite3 baza.db < baza.sql
