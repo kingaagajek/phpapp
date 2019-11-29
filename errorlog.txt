@@ -1,0 +1,7 @@
+[29-Nov-2019 09:37:12 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[29-Nov-2019 09:37:59 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[29-Nov-2019 09:38:37 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[29-Nov-2019 09:40:28 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[29-Nov-2019 09:41:00 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[29-Nov-2019 09:41:00 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[29-Nov-2019 09:41:01 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
