@@ -5,3 +5,19 @@
 [29-Nov-2019 09:41:00 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
 [29-Nov-2019 09:41:00 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
 [29-Nov-2019 09:41:01 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/kl2ag2/public_html/phpapp/inc/functions.php on line 41
+[13-Dec-2019 08:59:19 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/kl2ag2/public_html/phpapp/inc/users.php on line 14
+[13-Dec-2019 09:00:42 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/kl2ag2/public_html/phpapp/inc/users.php on line 14
+[13-Dec-2019 09:00:42 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home/kl2ag2/public_html/phpapp/inc/users.php on line 14
+[13-Dec-2019 09:01:17 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '{' or '$' in /home/kl2ag2/public_html/phpapp/inc/users.php on line 13
+[13-Dec-2019 09:01:18 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '{' or '$' in /home/kl2ag2/public_html/phpapp/inc/users.php on line 13
+[13-Dec-2019 09:13:41 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home/kl2ag2/public_html/phpapp/inc/users.php on line 90
+[13-Dec-2019 09:13:42 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST) in /home/kl2ag2/public_html/phpapp/inc/users.php on line 90
+[13-Dec-2019 09:19:11 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kl2ag2/public_html/phpapp/inc/template.php on line 40
+[13-Dec-2019 09:22:53 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function db_lastInsertID() in /home/kl2ag2/public_html/phpapp/inc/users.php:85
+Stack trace:
+#0 /home/kl2ag2/public_html/phpapp/userform.html(30): User->savtb()
+#1 /home/kl2ag2/public_html/phpapp/inc/functions.php(38): include('/home/kl2ag2/pu...')
+#2 /home/kl2ag2/public_html/phpapp/inc/template.php(34): get_page_content(Array)
+#3 /home/kl2ag2/public_html/phpapp/index.php(27): include_once('/home/kl2ag2/pu...')
+#4 {main}
+  thrown in /home/kl2ag2/public_html/phpapp/inc/users.php on line 85
