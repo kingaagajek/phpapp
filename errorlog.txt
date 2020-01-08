@@ -29,3 +29,18 @@ Stack trace:
 [03-Jan-2020 09:50:29 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/kl2ag2/public_html/phpapp/inc/users.php on line 92
 [03-Jan-2020 09:50:54 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
 [03-Jan-2020 09:50:54 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:02:18 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:02:18 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:02:20 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:02:20 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:02:26 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:02:26 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[08-Jan-2020 09:26:51 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:27:21 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:27:26 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:28:00 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:29:14 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:34:47 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:35:19 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:35:23 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[08-Jan-2020 09:35:38 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
