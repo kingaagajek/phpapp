@@ -86,5 +86,17 @@ class User {
 		if (Baza::$ret) return true;
 		return false;
 	}
+
+	function logout($redirect='') {
+		setcookie($this->CookieName, '', time()-(5*$this->remTime), '/', 'localhost', false, true);
+		$this->dane=array();
+		$_SESSION = array();
+		if (session_destroy()) $this->kom[] = 'Zostałeś wylogowany';
+		if ($redirect != '' && !headers_sent()) {
+			header('Location: '.$redirect);
+			exit;
+		}
+	}
+
 }
 ?>

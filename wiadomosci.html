@@ -39,7 +39,10 @@ echo '</ul>';
 if (isset($GET['akcja'])) {
     ; //obsługa edyscji wiadomości
 }
+
+if ($user->id) {
 ?>
+
 
 <form action="?id=<?php echo $strona['id']; ?>" method="POST" name="dane" id="dane">
     <input type="hidden" name="id_user" value="10">
@@ -53,3 +56,6 @@ if (isset($GET['akcja'])) {
     </div>
     <input type="submit" value="Wyślij" class="btn btn-primary">
 </form>
+<?php
+}
+?>

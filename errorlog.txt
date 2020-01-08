@@ -21,3 +21,11 @@ Stack trace:
 #3 /home/kl2ag2/public_html/phpapp/index.php(27): include_once('/home/kl2ag2/pu...')
 #4 {main}
   thrown in /home/kl2ag2/public_html/phpapp/inc/users.php on line 85
+[03-Jan-2020 09:37:40 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[03-Jan-2020 09:37:40 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[03-Jan-2020 09:37:41 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[03-Jan-2020 09:37:41 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[03-Jan-2020 09:50:28 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/kl2ag2/public_html/phpapp/inc/users.php on line 92
+[03-Jan-2020 09:50:29 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/kl2ag2/public_html/phpapp/inc/users.php on line 92
+[03-Jan-2020 09:50:54 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
+[03-Jan-2020 09:50:54 Europe/Warsaw] PHP Notice:  Trying to get property 'id' of non-object in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 43
