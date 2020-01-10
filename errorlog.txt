@@ -44,3 +44,43 @@ Stack trace:
 [08-Jan-2020 09:35:19 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
 [08-Jan-2020 09:35:23 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
 [08-Jan-2020 09:35:38 Europe/Warsaw] PHP Notice:  Undefined variable: user in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 7
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:05:40 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:06:01 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:06:01 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:06:01 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:06:01 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:08:34 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:08:35 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:08:36 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:08:36 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:09:02 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:09:06 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:09:08 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:09:28 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''.$t['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:09:29 Europe/Warsaw] PHP Parse error:  syntax error, unexpected ''.$t['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 33
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:09:41 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:52 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:52 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:52 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:52 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:53 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:53 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:53 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:10:53 Europe/Warsaw] PHP Notice:  Undefined index: login in /home/kl2ag2/public_html/phpapp/wiadomosci.html on line 36
+[10-Jan-2020 10:28:17 Europe/Warsaw] PHP Parse error:  syntax error, unexpected end of file in /home/kl2ag2/public_html/phpapp/userlogin.html on line 28
