@@ -11,6 +11,9 @@ $(document).ready(function(){
   $("input").mouseover(function(){
     $(this).addClass("tloBlue");
   });
+  $("input").mouseout(function(){
+    $(this).addClass("tloWhite");
+  });
   // podczas opuszczenia myszką obszaru input przywróć poprzedni kolor tła
 	// wywołania jQuery
 });
